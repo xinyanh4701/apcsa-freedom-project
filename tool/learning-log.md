@@ -1,16 +1,26 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **Unity**
 
-Project: **X**
+Project: **Player vs Environment Shooting Game**
 
 ---
 
-X/X/X:
-* Text
+10/23/23 - 10/30/23:
 
-X/X/X:
-* Text
+Links:
+* [Unity](https://unity.com/)
+* [The Unity Tutorial For Complete Beginners](https://www.youtube.com/watch?v=XtQMytORBmM)
+* [Unity in 100 Seconds](https://www.youtube.com/watch?v=iqlH4okiQqg)
+
+Progress:
+* made an account for Unity
+* installed Unity
+* watched videos about Unity
+
+What's next:
+* waiting to be verified 
+* trying to get a license to use the Unity editor
 
 
 <!-- 
