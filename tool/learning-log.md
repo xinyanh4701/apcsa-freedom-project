@@ -2,7 +2,7 @@
 
 Tool: **Unity**
 
-Project: **Player vs Environment Shooting Game**
+Project: **Player vs Environment First-Person Shooter Game**
 
 ---
 
@@ -12,17 +12,21 @@ Links:
 * [Unity](https://unity.com/)
 * [The Unity Tutorial For Complete Beginners](https://www.youtube.com/watch?v=XtQMytORBmM)
 * [Unity in 100 Seconds](https://www.youtube.com/watch?v=iqlH4okiQqg)
+* [Official Unity Documentation](https://docs.unity3d.com/Manual/index.html)
+* [CODING IN C# IN UNITY FOR BEGINNERS](https://unity.com/how-to/learning-c-sharp-unity-beginners)
 
 Progress:
-* made an account for Unity
+* made an account for Unity 
 * installed Unity
 * watched videos about Unity
+* looked at some documentation on the Unity website
 
 What's next:
-* waiting to be verified 
+* waiting to be verified (apparently, my documents are expired which they shouldn't be)
 * trying to get a license to use the Unity editor
+* start tinkering with the editor
 
-
+---
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
