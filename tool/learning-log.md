@@ -6,7 +6,7 @@ Project: **Player vs Environment First-Person Shooter Game**
 
 ---
 
-10/23/23 - 10/30/23:
+10/23/23 - 10/29/23:
 
 Links:
 * [Unity](https://unity.com/)
