@@ -17,6 +17,9 @@ My partner and I decided to work on building a Player vs. Environment game.
 ### Engineering Design Process (EDP)
 Currently, I am in stages 1 and 2 of the **Engineering Design Process** which are to `define the problem` and `research the problem`. Although these stages aren't really relevant to what state of the Freedom Project I am in now, you could say that the stage, `define the problem` is defining which tool to use for this project, and `research the problem` is tinkering with the tool. In the next stage, `Brainstorm possible solutions`, my partner and I will be planning how the game should work and start building something relevant to the game. 
 
+### Skills
+All of this progress is helping me improve my skills of *How to read* and *How to Google*. Since I am tinkering with Unity, I need to read documentation to help me acquire the necessary knowledge to build a game. In addition, figuring out which tool to use needs a Google search because I don't have a list of game engines on the back of my head. I need to research which game engine is going to be suitable for my partner and I. Improving on the skill of *How to Google* is going to help me find information more efficiently. 
+
 [Next](entry02.md)
 
 [Home](../README.md)
