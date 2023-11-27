@@ -26,6 +26,38 @@ What's next:
 * trying to get a license to use the Unity editor
 * start tinkering with the editor
 
+10/30/23 - 11/12/23:
+
+Links:
+* [C# Tutorial - Full Course for Beginners from freeCodeCamp](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+* [Learn C# BASICS in 10 MINUTES!](https://www.com/watch?v=IFayQioG71A)
+* [Learn about FPS Microgame](https://learn.unity.com/project/fps-template)
+* 
+
+Progress:
+* I have been verified after contacting the support team
+* I am approved for the Unity Student license
+* created a Unity project called `Sandbox` for tinkering with the tool
+* created shapes on `Sandbox`
+* changing the shapes' dimension
+
+
+What's next:
+*
+
+11/13/23 - 11/26/23:
+
+Links:
+* 
+*
+Progress:
+* Watching this [video](https://www.youtube.com/watch?v=rJqP5EesxLk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=2)
+* 
+What's next:
+* 
+* Watching this [video](https://www.youtube.com/watch?v=swOfmyJvb98&list=PLtLToKUhgzwm1rZnTeWSRAyx9tl8VbGUE) (this video is for more realistic graphics)
+
+
 ---
 <!-- 
 * Links you used today (websites, videos, etc)
