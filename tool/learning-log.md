@@ -47,9 +47,15 @@ Links:
 
 Progress:
 * Watching this [video](https://www.youtube.com/watch?v=rJqP5EesxLk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=2) (this video is for game's graphics that are more cartoonish)
-* Applying the knowledge I obtained from the video into the Unity Editor
+* Applying the knowledge I obtained from the video to the Unity Editor
 What's next:
 * Watching this [video](https://www.youtube.com/watch?v=swOfmyJvb98&list=PLtLToKUhgzwm1rZnTeWSRAyx9tl8VbGUE) (this video is for more realistic graphics)
+
+12/11/23
+I have finished watching and following [#1 FPS Movement: Let's Make a First Person Game in Unity!
+](https://www.youtube.com/watch?v=rJqP5EesxLk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=2) and [#2 FPS Raycast Interactions: Let's Make a First-Person Game in Unity!](https://www.youtube.com/watch?v=gPPGnpV1Y1c&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=2). I solved my problem with the 2D Vector Composite by the help of this [link](https://forum.unity.com/threads/no-option-of-2d-vector-composite-in-input-system-1-0-0.888607/) that I found.
+What's next:
+I am going to watch and follow [#2.5 Interaction Events! :Let's Make a First Person Game in Unity!](https://www.youtube.com/watch?v=_UIiwzfZoZA&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=3). 
 
 
 ---
