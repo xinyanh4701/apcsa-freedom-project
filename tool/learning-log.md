@@ -71,6 +71,12 @@ What's next:
 
 I am going to complete [this tutorial](https://www.youtube.com/watch?v=_UIiwzfZoZA&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=3). I am also going to watch the [How to make a Better Health Bar in Unity : Chip Away Tutorial](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=4) video. 
 
+12/25/23
+I finished watching and following [#2.5 Interaction Events! :Let's Make a First Person Game in Unity!](https://www.youtube.com/watch?v=_UIiwzfZoZA&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=3) 
+
+1/8/24
+I am trying to solve the problems I am facing with the C# scripts. I can't add the scripts to the component of an object. The scripts aren't compiling. I searched online about this problem.
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
