@@ -3,13 +3,13 @@
 
 After a few weeks after declaring which tool we would use for our Freedom Project, my partner and I decided that we should do our separate mini project before collaborating for the main project. By doing this, we are able to keep each other accountable.
 
-For the mini project, Aron recommended me a [serious of tutorials](https://www.youtube.com/watch?v=rJqP5EesxLk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC) on how to make a 3d shooter game. I gladly accepted this mini project idea because I thought this tutorial wouldn't be very difficult. Although the tutorial may take hours, the tutorial did provide us a lot of information to help us learn the tool.
+For the mini project, Aron recommended me a [serious of tutorials](https://www.youtube.com/watch?v=rJqP5EesxLk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC) on how to make a 3d shooter game. I gladly accepted this mini project idea because I thought this tutorial wouldn't be very difficult. Although the tutorial may take hours, the tutorial did provide us a lot of information to help us learn the tool. The original deadline for this mini project was the 22nd of December. However, Aron and I were very busy on other classes' homework so, we pushed back the deadline to the end of the winter break.
 
 <p align="center">
-<img src="img/apcsa-freedom-project-unity-editor-cant-see-objects.png">
+<img src="img/apcsa-freedom-project-unity-editor-cant-see-objects.png" width="70%" height="70%">
 </p>
 <p align="center">
-<img src="img/apcsa-freedom-project-unity-editor-reason.png" width>
+<img src="img/apcsa-freedom-project-unity-editor-reason.png" width="70%">
 </p>
 
 ### Engineering Design Process (EDP)
