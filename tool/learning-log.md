@@ -63,6 +63,19 @@ What's next:
 
 I am going to watch and follow [#2.5 Interaction Events! :Let's Make a First Person Game in Unity!](https://www.youtube.com/watch?v=_UIiwzfZoZA&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=3).
 
+12/18/23
+
+I did not finish completing the tutorial but, I am at `3:52`. I am having trouble with compiling my C# scripts. Without compiling correctly, I won't be able to move my object or make the object interact with other objects. I need to fix this compiling error. I learned how to assign color to an object. 
+
+What's next:
+
+I am going to complete [this tutorial](https://www.youtube.com/watch?v=_UIiwzfZoZA&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=3). I am also going to watch the [How to make a Better Health Bar in Unity : Chip Away Tutorial](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=4) video. 
+
+12/25/23
+I finished watching and following [#2.5 Interaction Events! :Let's Make a First Person Game in Unity!](https://www.youtube.com/watch?v=_UIiwzfZoZA&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=3) 
+
+1/8/24
+I am trying to solve the problems I am facing with the C# scripts. I can't add the scripts to the component of an object. The scripts aren't compiling. I searched online about this problem.
 
 ---
 <!--
