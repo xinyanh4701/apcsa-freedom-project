@@ -1,6 +1,17 @@
 # Entry 2
 ##### 12/12/2023
 
+After a few weeks after declaring which tool we would use for our Freedom Project, my partner and I decided that we should do our separate mini project before collaborating for the main project. By doing this, we are able to keep each other accountable.
+
+For the mini project, Aron recommended me a [serious of tutorials](https://www.youtube.com/watch?v=rJqP5EesxLk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC) on how to make a 3d shooter game. I gladly accepted this mini project idea because I thought this tutorial wouldn't be very difficult. Although the tutorial may take hours, the tutorial did provide us a lot of information to help us learn the tool.
+
+<p align="center">
+<img src="img/apcsa-freedom-project-unity-editor-cant-see-objects.png">
+</p>
+<p align="center">
+<img src="img/apcsa-freedom-project-unity-editor-reason.png" width>
+</p>
+
 ### Engineering Design Process (EDP)
 Currently, I am in stage 2 of the **Engineering Design Process** which is to `research the problem`. Right now, my partner and I are learning our tool and making separate mini projects. After finishing up our project, we will be on stage 3 of the **EDP** which is to `brainstorm possible solutions` which is to planning to set up how our game is going to work.
 
