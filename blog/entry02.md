@@ -29,7 +29,7 @@ My shapes were basically invisible. I tried clicking on the format of my scene b
 <img src="img/apcsa-freedom-project-unity-editor-reason.png" width="70%">
 </p>
 
-
+Another problem that I encountered was the same thing that Aron encountered which was the `2D Vector Composite`. You can check out Aron's encounter to this problem with [this link](https://github.com/aronl9810/apcsa-freedom-project/tree/main/blog). The `2D Vector Composite` is just to combine the key to a certain movement like left, right, up, or down. I searched online and found a [Unity forum](https://forum.unity.com/threads/no-option-of-2d-vector-composite-in-input-system-1-0-0.888607/) that explains the solution to my problem. Turns out, `2D Vector Composite` is just renamed to `Vector 2`.
 
 ### Engineering Design Process (EDP)
 Currently, I am in stage 2 of the **Engineering Design Process** which is to `research the problem`. Right now, my partner and I are learning our tool and making separate mini projects. After finishing up our project, we will be on stage 3 of the **EDP** which is to `brainstorm possible solutions` which is to planning to set up how our game is going to work.
