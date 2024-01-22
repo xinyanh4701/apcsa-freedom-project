@@ -77,6 +77,12 @@ I finished watching and following [#2.5 Interaction Events! :Let's Make a First 
 1/8/24
 I am trying to solve the problems I am facing with the C# scripts. I can't add the scripts to the component of an object. The scripts aren't compiling. I searched online about this problem.
 
+1/15/24
+Aron set up the main project repo. I am installing wsl to my computer. I ran into problems and hopefully, I will get to finish the setup.
+
+1/22/24
+I finished set up. I am now learning more about the Unity Editor through the [Unity website](https://learn.unity.com/). I am currently learning about [creating UI buttons](https://learn.unity.com/tutorial/creating-ui-buttons).
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
