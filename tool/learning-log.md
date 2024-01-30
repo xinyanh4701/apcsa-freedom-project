@@ -83,6 +83,10 @@ Aron set up the main project repo. I am installing wsl to my computer. I ran int
 1/22/24
 I finished set up. I am now learning more about the Unity Editor through the [Unity website](https://learn.unity.com/). I am currently learning about [creating UI buttons](https://learn.unity.com/tutorial/creating-ui-buttons).
 
+1/29/24
+Aron and I started doing our roles for the game. I am making the health bar for the characters and AI patrolling (NPC character just walking around). Aron sketched two designs of a possible environment that we will use for our game. I chose this one:
+
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
