@@ -95,6 +95,9 @@ Aron and I started doing our roles for the game. I am making the health bar for 
 This was the other design that Aron sketched:
 <img src="apcsa-freedom-project-map-design-2.png" width="70%">
 
+2/5/24
+I am continuing to do my roles for this project. I did watch some parts of the [health bar](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=4) and [AI patrolling](https://www.youtube.com/watch?v=Mp8yFUKxldk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=6). 
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
