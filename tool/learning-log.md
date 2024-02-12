@@ -65,15 +65,15 @@ I am going to watch and follow [#2.5 Interaction Events! :Let's Make a First Per
 
 12/18/23
 
-I did not finish completing the tutorial but, I am at `3:52`. I am having trouble with compiling my C# scripts. Without compiling correctly, I won't be able to move my object or make the object interact with other objects. I need to fix this compiling error. I learned how to assign color to an object. 
+I did not finish completing the tutorial but, I am at `3:52`. I am having trouble with compiling my C# scripts. Without compiling correctly, I won't be able to move my object or make the object interact with other objects. I need to fix this compiling error. I learned how to assign color to an object.
 
 What's next:
 
-I am going to complete [this tutorial](https://www.youtube.com/watch?v=_UIiwzfZoZA&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=3). I am also going to watch the [How to make a Better Health Bar in Unity : Chip Away Tutorial](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=4) video. 
+I am going to complete [this tutorial](https://www.youtube.com/watch?v=_UIiwzfZoZA&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=3). I am also going to watch the [How to make a Better Health Bar in Unity : Chip Away Tutorial](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=4) video.
 
 12/25/23
 
-I finished watching and following [#2.5 Interaction Events! :Let's Make a First Person Game in Unity!](https://www.youtube.com/watch?v=_UIiwzfZoZA&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=3) 
+I finished watching and following [#2.5 Interaction Events! :Let's Make a First Person Game in Unity!](https://www.youtube.com/watch?v=_UIiwzfZoZA&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=3)
 
 1/8/24
 
@@ -96,7 +96,10 @@ This was the other design that Aron sketched:
 <img src="apcsa-freedom-project-map-design-2.png" width="70%">
 
 2/5/24
-I am continuing to do my roles for this project. I did watch some parts of the [health bar](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=4) and [AI patrolling](https://www.youtube.com/watch?v=Mp8yFUKxldk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=6). 
+I am continuing to do my roles for this project. I did watch some parts of the [health bar](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=4) and [AI patrolling](https://www.youtube.com/watch?v=Mp8yFUKxldk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=6).
+
+2/12/24
+I am still working on making the health bar and doing the AI patrol.
 
 ---
 <!--
