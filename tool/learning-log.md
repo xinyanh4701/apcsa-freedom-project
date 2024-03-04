@@ -101,6 +101,20 @@ I am continuing to do my roles for this project. I did watch some parts of the [
 2/12/24
 I am still working on making the health bar and doing the AI patrol.
 
+3/3/24
+I created the healthbar, but there were issues. One of the issues was this: <p align="center"><img src="img/apcsa-freedom-project-health-bar-error.png"></p>
+
+This meant that an object was not attached to another object to make the healthbar work.
+
+How I solved it:
+* changed the class name to PlayerHealth in the PlayerHealth C# script
+* attach the PlayerHealth script to the Player object (forgot to do so)
+* attach the FrontHealthBar image to FrontHealthBar (object)
+* attach the BackHealthBar image to BackHealthBar (object)
+* the fill method of FrontHealthBar and BackHealthBar set to horizontal (it was 360 dial before)
+
+I fixed the healthbar before finding out that the healthbar changed in a circle.
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
