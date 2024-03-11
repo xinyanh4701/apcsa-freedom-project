@@ -96,12 +96,15 @@ This was the other design that Aron sketched:
 <img src="apcsa-freedom-project-map-design-2.png" width="70%">
 
 2/5/24
+
 I am continuing to do my roles for this project. I did watch some parts of the [health bar](https://www.youtube.com/watch?v=CFASjEuhyf4&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=4) and [AI patrolling](https://www.youtube.com/watch?v=Mp8yFUKxldk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=6).
 
 2/12/24
+
 I am still working on making the health bar and doing the AI patrol.
 
 3/3/24
+
 I created the healthbar, but there were issues. One of the issues was this: <p align="center"><img src="img/apcsa-freedom-project-health-bar-error.png"></p>
 
 This meant that an object was not attached to another object to make the healthbar work.
@@ -114,6 +117,18 @@ How I solved it:
 * the fill method of FrontHealthBar and BackHealthBar set to horizontal (it was 360 dial before)
 
 I fixed the healthbar before finding out that the healthbar changed in a circle.
+
+3/11/24
+
+My next component that I need to make is the ammunition system. It helps keep track of how much ammo you have left per magazine and how much ammo is left in total.
+
+Right now, I am exploring different tutorials on how to create the ammo system. Here are the tutorials that I found:
+* [Ammo & Reloading - Unity Tutorial](https://www.youtube.com/watch?v=kAx5g9V5bcM)
+* [Easy Ammo & Reloading System in Unity](https://www.youtube.com/watch?v=cjNMQkODh1M)
+* [Making RELOADING and an AMMO SYSTEM! (Unity Multiplayer FPS Tutorial E06)](https://www.youtube.com/watch?v=PqbS46fWqbM)
+    * this is part of a serious of tutorials
+
+After skimming through these videos, the first and third video gives me more information than the second video. The second video is more for simple shooting games. I will be looking forward to the first and third videos to help me create this component.
 
 ---
 <!--
