@@ -19,7 +19,7 @@ Right now, the player's health alters by different keys. I made the `z` key to l
 The solution to this error was in the player object's component.
 
 <p align="center">
-<img src="/workspaces/apcsa/apcsa-freedom-project/blog/img/apcsa-freedom-project-health-bar-solution-1.png" width="70%">
+<img src="img/apcsa-freedom-project-health-bar-solution-1.png" width="70%">
 </p>
 
 The `Player Health` script was not added to the player object's component. Without this script, the player's health wouldn't change. Where you see `Front Health Bar` and `Back Health Bar` that are below the `Max Health` and `Chip Speed`, you are supposed to have their respective image for the health bar to operate.
