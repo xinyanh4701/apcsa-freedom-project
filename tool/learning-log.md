@@ -130,6 +130,18 @@ Right now, I am exploring different tutorials on how to create the ammo system. 
 
 After skimming through these videos, the first and third video gives me more information than the second video. The second video is more for simple shooting games. I will be looking forward to the first and third videos to help me create this component.
 
+3/18/24
+
+After careful consideration, I decided to use [Ammo & Reloading - Unity Tutorial](https://www.youtube.com/watch?v=kAx5g9V5bcM) and [Making RELOADING and an AMMO SYSTEM! (Unity Multiplayer FPS Tutorial E06)](https://www.youtube.com/watch?v=PqbS46fWqbM) to help me make the ammo system.
+
+Reasons:
+* the first video helps you with reloading
+* the third video helps you with the ammo system (simple to follow)
+* both videos are more simple and easier to follow
+
+For the AI patrol, I am finshing up the intro of the Natty GameDev's [tutorial](https://www.youtube.com/watch?v=Mp8yFUKxldk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=7).
+
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
