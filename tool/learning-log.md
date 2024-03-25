@@ -142,6 +142,21 @@ Reasons:
 For the AI patrol, I am finshing up the intro of the Natty GameDev's [tutorial](https://www.youtube.com/watch?v=Mp8yFUKxldk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=7).
 
 
+3/25/2024
+
+We have a problem. The health bar that I created only works on free aspect screen size. It doesn't work for other screen size or resolution. Aron recommended [this video](https://www.youtube.com/watch?v=0tDPxNB2JNs&t=48s) to help me create a working health bar. While the health bar I created has animations when the player takes damage or gets healed, the new health bar will be a simple one. I followed all of the steps except creating the sprites. I am not sure on how to creat a sprite. You can turn an image to a sprite. I looked at the comments and found this:
+```
+It's possibly that I missed something but when I click on source image to select a Sprite, I can't find square. Do I need to download it from somewhere? // original commenter
+
+You can either import your own, or if it is missing from Unity you may need to install the 2D package from the package manager // creator of the video
+
+i can't find it either, u can right click in the project window, Create => 2D => Sprites => Square. Then drag the square sprite u just created into the source image spot and it should work just fine // another commenter
+```
+I followed the commenter's suggestion but, I can't find the Sprites after hovering over 2D.
+<p align="center">
+<img src="/workspaces/apcsa/apcsa-freedom-project/tool/img/apcsa-freedom-project-health-bar-error-continue.png" width="70%">
+</p>
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
