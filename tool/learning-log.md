@@ -157,6 +157,10 @@ I followed the commenter's suggestion but, I can't find the Sprites after hoveri
 <img src="/workspaces/apcsa/apcsa-freedom-project/tool/img/apcsa-freedom-project-health-bar-error-continue.png" width="70%">
 </p>
 
+4/1/24
+
+I completed the tutorial except the part where if the `healthAmount` is less than or equal to 0. When the player reaches less than or equal to 0, I want the player to be reloaded. The code that the YouTuber wrote for that part is this: `Application.LoadLevel(Application.loadedLevel);`. However, the Unity Editor recognizes this line as an error.
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
