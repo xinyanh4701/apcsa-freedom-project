@@ -162,7 +162,7 @@ I followed the commenter's suggestion but, I can't find the Sprites after hoveri
 I completed the tutorial except the part where if the `healthAmount` is less than or equal to 0. Now, the health bar updates (takes damage or heals).  When the player reaches less than or equal to 0, I want the player to be reloaded. The code that the YouTuber wrote for that part is this: `Application.LoadLevel(Application.loadedLevel);`. However, the Unity Editor recognizes this line as an error. Another problem came up, when I tried to test my health bar, the gameplay freezes. The problem was this:
 
 <p align="center">
-<img src="/workspaces/apcsa/apcsa-freedom-project/tool/img/apcsa-freedom-project-playerinteract.png" width="70%">
+<img src="img/apcsa-freedom-project-playerinteract.png" width="70%">
 </p>
 
 I contacted Aron about this and he also has the same problem. We used Discord to chat about this problem. Compared to the previous sample scene, there was no issue about this. Aron changed the current sample scene back to the old one. I redid the health bar and it now works on my end. I `git push` the progress. However, Aron didn't have the same hierarchy as mine. I forgot to `git push` the sample scene. I keep forgetting to do that. I need to break out of this habit. As of right now, we don't have a problem with the health bar.
