@@ -167,6 +167,11 @@ I completed the tutorial except the part where if the `healthAmount` is less tha
 
 I contacted Aron about this and he also has the same problem. We used Discord to chat about this problem. Compared to the previous sample scene, there was no issue about this. Aron changed the current sample scene back to the old one. I redid the health bar and it now works on my end. I `git push` the progress. However, Aron didn't have the same hierarchy as mine. I forgot to `git push` the sample scene. I keep forgetting to do that. I need to break out of this habit. As of right now, we don't have a problem with the health bar.
 
+4/8/24
+
+I started my other task: making the AI patrol state. I am watching [#4 Game AI - Patrolling : Let's Make a First Person Game in Unity!](https://www.youtube.com/watch?v=Mp8yFUKxldk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=6) right now. Aron redesigned the health bar. The health bar now looks more like a game health bar. My health bar was very simple; black border with the green and red background to update the player's health.
+
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
