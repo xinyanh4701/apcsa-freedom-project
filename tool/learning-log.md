@@ -171,6 +171,10 @@ I contacted Aron about this and he also has the same problem. We used Discord to
 
 I started my other task: making the AI patrol state. I am watching [#4 Game AI - Patrolling : Let's Make a First Person Game in Unity!](https://www.youtube.com/watch?v=Mp8yFUKxldk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC&index=6) right now. Aron redesigned the health bar. The health bar now looks more like a game health bar. My health bar was very simple; black border with the green and red background to update the player's health.
 
+4/15/24
+
+I made some progress with the AI patrol state. I made an enemy but, it is without color. I made progress on the BaseState.C# and StateMachine.C# scripts that I need to write. I am having trouble with making spheres for the eyes of the enemy. My spheres are elongated.
+
 
 ---
 <!--
