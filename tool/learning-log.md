@@ -176,6 +176,10 @@ I started my other task: making the AI patrol state. I am watching [#4 Game AI -
 I made some progress with the AI patrol state. I made an enemy but, it is without color. I made progress on the BaseState.C# and StateMachine.C# scripts that I need to write. I am having trouble with making spheres for the eyes of the enemy. My spheres are elongated.
 
 
+The Spring Break
+
+This whole time, I wasn't able to go into 3d perspective. You just have to hold the right side of the mouse and move around. I finished making one patroling enemy. I worked on making the main menu of the game. I worked on the pause menu but I am not sure if we need it. I still have to fix the mistakes from the main menu.
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
