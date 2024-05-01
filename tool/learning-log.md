@@ -180,6 +180,14 @@ The Spring Break
 
 This whole time, I wasn't able to go into 3d perspective. You just have to hold the right side of the mouse and move around. I finished making one patroling enemy. I worked on making the main menu of the game. I worked on the pause menu but I am not sure if we need it. I still have to fix the mistakes from the main menu.
 
+4/29/24
+
+I made several enemies. I had a merge conflict and that took a while to fix.
+
+4/30/24
+
+The problem that I had with the main menu was when you click play the game scene was dark. You can barely see anything. I found this [video](https://www.youtube.com/watch?v=8-oXE2NWSLM) to help out with this problem. You just have to generate lighting. A folder with the lighting details will be generated for you. Today, I also broke the bullets script. I made the bullets stay forever and not disappear. Thankfully, Aron fixed the problem because I would have made the problem more worse.
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
