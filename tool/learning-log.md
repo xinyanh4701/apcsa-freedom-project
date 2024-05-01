@@ -186,7 +186,9 @@ I made several enemies. I had a merge conflict and that took a while to fix.
 
 4/30/24
 
-The problem that I had with the main menu was when you click play the game scene was dark. You can barely see anything. I found this [video](https://www.youtube.com/watch?v=8-oXE2NWSLM) to help out with this problem. You just have to generate lighting. A folder with the lighting details will be generated for you. Today, I also broke the bullets script. I made the bullets stay forever and not disappear. Thankfully, Aron fixed the problem because I would have made the problem more worse.
+The problem that I had with the main menu was when you click play the game scene was dark. You can barely see anything. I found this [video](https://www.youtube.com/watch?v=8-oXE2NWSLM) to help out with this problem. You just have to generate lighting. A folder with the lighting details will be generated for you. Today, I also broke the bullets script. I made the bullets stay forever and not disappear. Thankfully, Aron fixed the problem because I would have made the problem more worse. I am still working on the Pause Menu even it is not part of the MVP.
+
+
 
 ---
 <!--
