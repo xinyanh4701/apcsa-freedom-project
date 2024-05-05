@@ -30,6 +30,7 @@ For the second `if` condition, when the enemy waits for more than 3 seconds, the
 
 
 **sorry about the black background**
+
 https://github.com/xinyanh4701/apcsa-freedom-project/assets/91750651/528cfd33-e901-4c3c-93b4-8ddd254cb462
 
 After the AI patrol was done, I move onto making the main menu. I found this [tutorial](https://www.youtube.com/watch?v=pcyiub1hz20) and this was pretty straight forward. I made the main menu in no time. To make a main menu, you just need a canvas, UI panel, and a button to take you to the next scene which in my case is the gameplay. A problem showed up. After I clicked the play button, the game was dark. I could barely see anything. I reached out to Aron about this issue and he told me that I could render the intensity of the lighting which didn't solve the issue. Luckily, I found this [video](https://www.youtube.com/watch?v=8-oXE2NWSLM) to help me solve this issue. What you basically do is go to `Window`, hover over `Rendering`, select Lighting, and when you are in the `Scene` category, you should see the `Generate Lighting` button which you click on.
@@ -45,6 +46,7 @@ After the AI patrol was done, I move onto making the main menu. I found this [tu
 </p>
 
 **sorry about the black background**
+
 https://github.com/xinyanh4701/apcsa-freedom-project/assets/91750651/2dc60798-2b0f-49df-b4aa-ff0eaf535b71
 
 
