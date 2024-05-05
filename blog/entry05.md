@@ -8,6 +8,10 @@
 <img src="img/apcsa-freedom-project-lighting-issue.png" width="70%">
 </p>
 
+https://github.com/xinyanh4701/apcsa-freedom-project/assets/91750651/528cfd33-e901-4c3c-93b4-8ddd254cb462
+
+
+
 #### After
 <p align="center">
 <img src="img/apcsa-freedom-project-lighting-fixed.png" width="70%">
