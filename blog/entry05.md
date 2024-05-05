@@ -28,21 +28,19 @@ public void PatrolCycle()
 ```
 For the second `if` condition, when the enemy waits for more than 3 seconds, the enemy will immediately go straight to the next destination point. Since the `waypoints` are numbered, the enemy would go to the next `waypoint` with the next number. When the enemy goes to the last `waypoint`, that is where the `else` condition comes in. The enemy will move to the first waypoint and this repeats continously until the enemy gets killed. The line, `enemy.Agent.SetDestination(enemy.path.waypoints[waypointIndex].position);` tells the enemy to go to the poisition of a specific `waypoint`. The `waitTimer` resets the time of the enemy standing on a `waypoint`.
 
-
+https://github.com/xinyanh4701/apcsa-freedom-project/assets/91750651/528cfd33-e901-4c3c-93b4-8ddd254cb462
 
 #### Before
 <p align="center">
 <img src="img/apcsa-freedom-project-lighting-issue.png" width="70%">
 </p>
 
-https://github.com/xinyanh4701/apcsa-freedom-project/assets/91750651/528cfd33-e901-4c3c-93b4-8ddd254cb462
-
-
-
 #### After
 <p align="center">
 <img src="img/apcsa-freedom-project-lighting-fixed.png" width="70%">
 </p>
+
+https://github.com/xinyanh4701/apcsa-freedom-project/assets/91750651/2dc60798-2b0f-49df-b4aa-ff0eaf535b71
 
 
 ### Engineering Design Process (EDP)
