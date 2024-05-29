@@ -1,7 +1,10 @@
 # Entry 6
-##### X/X/XX
+##### 5/28/24
 
-Text
+#### Takeaways
+Don't worry about the time because a minute is an instant. 
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
