@@ -1,10 +1,15 @@
 # Entry 6
 ##### 5/28/24
 
-#### Takeaways
-Don't worry about the time because a minute is an instant. 
+After finishing up our Beyond MVP, my partner and I prepared for the SEP EXPO. We had to create an elevator pitch since we had 1 minute to talk to the judges. I was not overwhelmed as this is my third year doing this. To be honest, having the experience of doing the SEP EXPO helped me prepare for my pitch. My partner and I created an elevator pitch on our in-class presentation [slides](https://docs.google.com/presentation/d/1K6k3fFM0PhtvV6z7rwX7pEAcqPMnAInZ-WFUOU8t0FQ/edit?usp=sharing). We wrote it on the speaker notes in our title slide. Overall, I had a great time in the SEP EXPO, I wished that I had more time seeing what other's freedom project were. My takeaways for the SEP EXPO are to have fun and enjoy your product since you put your sweat and tears creating a product you want.
 
+My partner and I decided to [present](https://docs.google.com/presentation/d/1K6k3fFM0PhtvV6z7rwX7pEAcqPMnAInZ-WFUOU8t0FQ/edit?usp=sharing) earlier (at 2) to get this over with. On the second day of presenting, we were called up first. I haven't felt much anxiety, but excited to show off our product that we worked really hard on. One thing I did well on the presentation was presenting and making eye contact with the audience. For this presentation, I didn't really practice as much as the other years because I was afraid of messing up. Fortunately, when you are not anxious, you feel like you already know what to say. My takeaways for this in-class presentation are to articulate better, speak a little bit louder, and continuing to keep eye contact. At times, I sometimes was speaking not as clear or easier for the audience to understand what I was saying. I think that the audience in the back might have not heard me loud and clear.
 
+### EDP
+My partner and I are now done with **stage 8** of the *Engineering Design Process (EDP)* which is to **communicate the results**. Now, I am done presenting our product in the EXPO and the in-class presentation. I guess for the next steps, we will be applauding and hearing our classmates present their product in the 2024 SEP Showcase.
+
+### Skills
+I have grown in the skills of *communication* and *collaboration*. Since I am in a partnership, collaboration is key to get things done. When we had merge conflicts, we video chat on Discord to go over this together. This is to make sure that when we merge, progress wouldn't be lost. On Discord, most of our texts were recording the progresses we have made to keep ourselves accountable. In addition, whenever we had errors, we can ask each other for help. In terms of communication, I improved on this skill because communication gets our product and ideas to other people. I record my progress in the `learing-log.md` file to let my teacher know where in the project I am at, talk to my partner about current and upcoming components I would be working on, create a script to help express my ideas to the judges at the SEP EXPO, etc. Communicating with one another is essential for me and others as my partner and I wouldn't have a product to present. 
 
 [Previous](entry05.md) | [Next](entry07.md)
 
